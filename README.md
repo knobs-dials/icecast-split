@@ -2,7 +2,7 @@
 
 I once had my computer listen to internet radio, to play back later.
 
-I didn't realize icecast means it intersperses (mostly title) metadata in the otherwise plain media stream, so I then had to parse it out.
+I didn't yet realize icecast means it intersperses metadata (mostly title) in the otherwise plain media stream, so I then had to parse it out.
 
 
 And because it parses ot out the title anyway, I added a mode that splits on songs.
