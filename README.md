@@ -6,7 +6,7 @@ I didn't yet realize icecast means it intersperses metadata (mostly title) in th
 
 
 And because it parses ot out the title anyway, I added a mode that splits on songs.
-...which is necessarily imperfect, both because radios fade songs, and also because right now it doesn't even cut on the nearest media frame.
+...which is necessarily imperfect because radios fade songs, and more so in this implementation because it doesn't even cut on the nearest media frame.
 
 
 # TODO:
